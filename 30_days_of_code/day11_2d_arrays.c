@@ -44,7 +44,7 @@ int main() {
         }
         
         int max = sum[0];
-        for (int k = 0; k < 15; k++) {
+        for (int k = 0; k < 16; k++) {
 		if (sum[k] > max) { 
 		    max = sum[k];
 	    }
